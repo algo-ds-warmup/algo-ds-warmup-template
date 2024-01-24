@@ -7,3 +7,4 @@ main template repo that contains file structure and docs
 # another change v4
 # another change v5
 # another change v6
+# another change v7
