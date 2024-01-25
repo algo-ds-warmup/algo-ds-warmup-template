@@ -13,4 +13,3 @@ This repo provides template for algorithm datastructure cource exercises
 |-- sprint2/
 |-- README.md
 ```
-some change
