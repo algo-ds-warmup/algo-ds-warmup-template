@@ -1,4 +1,4 @@
-# Algotithm Datastructure Warmup Template  
+# Algorithm Datastructure Warmup Template  
 This repo provides template for algorithm datastructure cource exercises
 
 ### Proposed repo structure
