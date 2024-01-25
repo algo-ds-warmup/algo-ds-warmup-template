@@ -1,5 +1,5 @@
-# Algorithm Datastructure Warmup Template  
-This repo provides template for algorithm datastructure cource exercises
+# Algorithm Data Structure Warmup Template  
+This repo provides template for algorithm data structure cource exercises
 
 ### Proposed repo structure
 ```bash
