@@ -21,7 +21,7 @@ jobs:
           LANGUAGE: English
           OPENAI_API_ENDPOINT: https://api.openai.com/v1
           MODEL: gpt-4-1106-preview # https://platform.openai.com/docs/models
-          PROMPT: Provide code review of the change. Comment only if improvement is needed. Incentive changes if they are consistent with industry guidelines and you like them. Be clear and specific. Use examples. Evaluate algorithm code complexity if the change contains code.
+          PROMPT: Provide code review of the change. Do not review or comment if it's not a code. Comment only if improvement is needed. Comments must be short. Incentive changes if they are consistent with industry guidelines and you like them. Be clear and specific. Use examples. Evaluate algorithm code complexity if the change contains code.
           top_p: 1 # https://platform.openai.com/docs/api-reference/chat/create#chat/create-top_p
           temperature: 1 # https://platform.openai.com/docs/api-reference/chat/create#chat/create-temperature
           max_tokens: 3800 
