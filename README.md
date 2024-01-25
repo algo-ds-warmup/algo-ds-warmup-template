@@ -1,10 +1,15 @@
-# algo-ds-warmup-template
-main template repo that contains file structure and docs
-# test change
-# another change
-# another change v2
-# another change v3
-# another change v4
-# another change v5
-# another change v6
-# another change v7
+# Algotithm Datastructure Warmup Template  
+This repo provides template for algorithm datastructure cource exercises
+
+### Proposed repo structure
+```bash
+.
+|-- sprint1/
+|-- |-- exercise1/
+|-- |-- |-- exercice1.cpp
+|-- |-- exercise2/
+|-- |-- |-- exercice2.java
+|-- |-- exercise3/
+|-- sprint2/
+|-- README.md
+```
